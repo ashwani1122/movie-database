@@ -1,0 +1,9 @@
+
+
+.NavBar {
+    border-radius: 3px solid #1c2837;
+    display: flex; 
+     flex-direction: row;
+    justify-content:space-around;
+    height: 40px;
+  }

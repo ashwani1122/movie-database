@@ -1,0 +1,13 @@
+.movie-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+}
+.a{
+    color: #eee;
+}
+.a.active{
+    color: #eee
+}
